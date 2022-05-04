@@ -48,7 +48,7 @@ Título del trabajo:
 Ejercicios ......
 
 Estudiante:
-.......
+Portugal Quintero Adolfo
 
 	</p>
 
